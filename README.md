@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋 Hi, I'm Shivank Sharma  
 
-<!--
-**techwithshivanksharma/techwithshivanksharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me  
+- 🎓 Final year **MCA student**  
+- 💻 Aspiring **Frontend Developer**  
+- 🌐 Skilled in **HTML • CSS • JavaScript • React.js • Bootstrap • Tailwind CSS**  
+- 🎨 Passionate about creating **responsive, accessible, and modern UI**  
+- 🚀 Actively looking for a **Frontend role / Internship**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+- **Languages:** HTML, CSS, JavaScript  
+- **Frontend Frameworks:** React.js  
+- **UI Libraries:** Bootstrap, Tailwind CSS  
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://www.linkedin.com/in/shivank-ss324/)  
+[![GitHub](https://github.com/techwithshivanksharma)  
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
+
